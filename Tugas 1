@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas HTML</title>
+</head>
+<body>
+	<CENTER>
+       <h1>Nama Anggota Kelompok</h1>
+      </CENTER>
+      <h2>Anggota 1</h2>
+       <p>Nama  : Ahmad Aidil Ma'ruf</p>
+       <p>NIM   : 201410049</p>
+       <p>Kelas : SI5D</p>
+	   <p>Alamat: Jln. K.H. Azhari 13 Ulu Lorong Sehat
+
+      
+</body>
+</html>
